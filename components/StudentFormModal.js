@@ -1,4 +1,3 @@
-// components/StudentFormModal.js
 import { Modal, Form, Input } from 'antd';
 import { useEffect } from 'react';
 

@@ -1,4 +1,3 @@
-// pages/students/quiz.js
 import { useEffect, useState } from 'react';
 import { Button, message, Spin } from 'antd';
 import StudentTable from '../../components/StudentTable';

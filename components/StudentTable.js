@@ -1,4 +1,3 @@
-// components/StudentTable.js
 import { Table, Input, Space, Button } from 'antd';
 
 export default function StudentTable({ students, onEdit, onDelete, onSearch }) {

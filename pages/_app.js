@@ -1,6 +1,5 @@
-// pages/_app.js
-import 'antd/dist/reset.css'; // Ant Design v5 uses reset.css
-import '../styles/globals.css'; // Your global styles
+import 'antd/dist/reset.css';
+import '../styles/globals.css';
 import { ConfigProvider } from 'antd';
 import Head from 'next/head';
 

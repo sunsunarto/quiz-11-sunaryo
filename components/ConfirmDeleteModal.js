@@ -1,4 +1,3 @@
-// components/ConfirmDeleteModal.js
 import { Modal } from 'antd';
 
 export default function ConfirmDeleteModal({ visible, student, onConfirm, onCancel }) {
